@@ -1,6 +1,8 @@
 ### Team motor
 
 ## Členové:
+ - [Maty](https://github.com/matyasvanke)
+ - Vítek
 
 ## Součástky: 
 1. https://www.laskakit.cz/ga12-n20-6v-motor-s-prevodovkou/
