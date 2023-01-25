@@ -1,6 +1,9 @@
 ### Team zesilovač
 
 ## Členové:
+ - [David](https://github.com/davsla)
+ - Kuba 
+ - Kuba
 
 ## Součástky: 
 1. https://www.laskakit.cz/comf-bh-421a-drzak-baterie-2xaaa-dratove-vyvody/
