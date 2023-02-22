@@ -1,4 +1,4 @@
-### Team motor
+# Team motor
 
 ## Členové:
  - [Maty](https://github.com/matyasvanke)
