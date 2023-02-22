@@ -28,4 +28,4 @@ V krabičce je:
  - Tobiáš
 
 
-desing README.md by: [davsla12](https://github.com/davsla12)
+desing [README.md](README.md) by: [davsla12](https://github.com/davsla12)
