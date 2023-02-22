@@ -1,7 +1,7 @@
 # Team přenoska
 
 ## Členové:
- - [Fabián] (https://github.com/BabaFabaBaba)
+ - [Fabián](https://github.com/BabaFabaBaba)
  - Tobiáš
 
 ## Součástky: 
