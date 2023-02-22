@@ -7,6 +7,6 @@ Naše teamy:
 
 [motor](motor.md)
 
-[zesilovac](zesilovac.md)
+[zesilovač](zesilovac.md)
 
-[prenoska.md](prenoska.md)
+[přenoska](prenoska.md)
