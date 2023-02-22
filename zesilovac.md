@@ -1,7 +1,7 @@
-# Team zesilovač
+### Team zesilovač
 
 ## Členové:
- - [David](https://github.com/davsla)
+ - [David](https://github.com/davsla12)
  - Kuba 
  - Kuba
 
@@ -13,7 +13,8 @@
 5. https://www.hadex.cz/w309a-predzesilovac-pro-magnetodynamickou-prenosku-stereo-v2-stavebnice/?gclid=Cj0KCQiAtvSdBhD0ARIsAPf8oNnTNTesRO7UDsawQV9PurzXJc69FB86xegFsnCnZljKdQSnjBYm0BIaAiZbEALw_wcB
 
 ## Jak to funguje:
-Zesilovač zesiluje elektrický proud z motoru.
+
+zesilovač zesílí 
+
 
 ## Design:
-U držáku na přenosku 
