@@ -1,4 +1,4 @@
-### Team zesilovač
+### Team [zesilovač](zesilovac.md)
 
 ## Členové:
  - [David](https://github.com/davsla12)
