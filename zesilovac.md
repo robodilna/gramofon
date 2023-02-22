@@ -14,7 +14,8 @@
 
 ## Jak to funguje:
 
-zesilovač zesílí 
+zesilovač zesílí signál z přenosky
 
 
 ## Design:
+prostě elektryka
