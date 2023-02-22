@@ -1,5 +1,5 @@
 # gramofon
-Tvoříme gramofon pro Výzvu Gramofondu
+Tvoříme gramofon pro Výzvu Gramofonu
 
 V krabičce je motor, baterie, potenciometr, zesilovač.  
 
