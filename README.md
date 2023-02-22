@@ -9,7 +9,7 @@ Naše teamy:
  - [Maty](https://github.com/matyasvanke)
  - [Vítek](https://github.com/vextr2009)
 
-### [zesilovač](zesilovac.md) :
+### [předzesilovač](zesilovac.md) :
  - [David](https://github.com/davsla12)
  - Kuba 
  - Kuba
