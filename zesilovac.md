@@ -18,4 +18,4 @@ zesilovač zesílí signál z přenosky
 
 
 ## Design:
-prostě elektryka
+prostě elektrika...
