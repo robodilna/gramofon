@@ -27,7 +27,5 @@ David a dva Kubové se vrhli na zesilovač. Pokračovali v pájení dílů. Do p
 
 Tým pro přesnoku ztatím není.
 
-**Ukoly do příště**: Vítek pracuje na designu a tisku dolní krabičky. Tým zesilovač má přijít s návrhem krabičky. Všichni budeme pokračovat v pájení zesilovače, 
-dáme pozor na umístění správných odporů - zvlášť vysoké odpory proměřujeme na nevodivé podložce, nikoli v ruce.
-Tým přenoska se bude věnovat OpenScadu a nyvrženou krabičku přenesou do programového kódu a dají tisknout.
-
+## 22. 2. 2023
+Dokončili jsme gramofon (snad). V OpenSCADU jsme vymodelovali držák na přenosku
