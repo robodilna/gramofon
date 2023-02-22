@@ -1,7 +1,7 @@
 # gramofon
 Tvoříme gramofon pro Výzvu Gramofondu
 
-V krabičce je motor, baterie, potenciometr, zesilovač.
+V krabičce je motor, baterie, potenciometr, zesilovač.  
 
 Naše teamy:
 

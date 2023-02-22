@@ -2,7 +2,7 @@
 
 ## Členové:
  - [Maty](https://github.com/matyasvanke)
- - Vítek
+ - [Vítek](https://github.com/vextr2009)
 
 ## Součástky: 
 1. https://www.laskakit.cz/ga12-n20-6v-motor-s-prevodovkou/
