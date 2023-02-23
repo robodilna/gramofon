@@ -31,3 +31,6 @@ David a dva Kubové se vrhli na zesilovač. Pokračovali v pájení dílů. Do p
 ## 22. 2. 2023
 V OpenSCADU jsme vymodelovali držák na přenosku.
 **Dokončili jsme gramofon!**
+
+## 23.2. 2023
+Všechny modely, fotky a soubory jsou teď v GitHubu.
