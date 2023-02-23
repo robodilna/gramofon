@@ -15,4 +15,4 @@
 Z baterie odchází elektronický proud, který potom prochází potenciometrem a jde do motoru .
 
 ## Design:
-Je to taková zelená krabička a nad tim je gramofonová deska.
+V zelené krabičce je ukryt motor, baterie a potenciometr.
