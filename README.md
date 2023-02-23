@@ -1,9 +1,9 @@
 # Gramofon
 Vytváříme gramofon pro výzvu: [Přehraj desku](https://www.elixirdoskol.cz/l/prehraj-desku/)
 
-## Celkový popis
+Všechny fotky a videa naleznete [zde](https://owncloud.cesnet.cz/index.php/s/BCm2MCylGpjqCPX).
 
-Fotky a videa naleznete [zde](https://owncloud.cesnet.cz/index.php/s/BCm2MCylGpjqCPX).
+## Celkový popis
 
 U tohoto gramofonu se nebude točit deska, ale rameno s přenoskou. Toto rameno bude mít motor umístěný pod deskou, výstup motoru projde středem desky .
 
