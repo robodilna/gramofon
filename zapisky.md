@@ -26,9 +26,7 @@ Děti se rozdělili do týmů:
 Maty a Vítek se ujali designu dolní části gramofonu (motoru). Jejich úkolem je navrhnout krabičku,
 která bude motor držet rovně ve středu a bude obsahovat regulátor a 4 AA baterie.
 
-David a dva Kubové se vrhli na zesilovač. Pokračovali v pájení dílů. Do přístě mají rozmyslet, jak bude vypadat krabička (každý má přinést nákres na papíře s rozměry).
-
-Tým pro přesnoku ztatím není.
+David a dva Kubové se vrhli na zesilovač. Pokračovali v pájení dílů. Do přístě si musíme rozmyslet, jak bude vypadat krabička (každý má přinést nákres na papíře s rozměry).
 
 ## 22. 2. 2023
 V OpenSCADU jsme vymodelovali držák na přenosku.
