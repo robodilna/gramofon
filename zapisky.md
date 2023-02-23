@@ -9,7 +9,8 @@ Vedoucí projektu: Petr, Pavel, Tomáš
 Založení github týmu, brainstorming nápadů. Děti se rozhodli projekt rozdělit do 3 částí:
  - [motor](motor.md)
  - [zesilovac](zesilovac.md)
- - [prenoska.md](prenoska.md)
+ - [prenoska](prenoska.md)
+
 Sepsali jsme krátký popis těchto částí a na tabuli udělali nákresy. Zároveň jsme objednali potřebné díly.
 
 ## 18. 1. 2023
