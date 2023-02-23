@@ -15,6 +15,8 @@ V krabičce je:
  - potenciometr
  - zesilovač
 
+![Všechny díly gramofonu](images/gramofon2.jpg)
+
 ## Naše teamy:
 (kdo co dělal)
 
