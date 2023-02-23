@@ -12,6 +12,6 @@
 
 ## Plán útoku
 
-1. Skupina motor
-2. Skupina zesilovač
-3. Skupina přenoska
+1. [Skupina motor](motor.md)
+2. [Skupina zesilovač](zesilovač.md)
+3. [Skupina přenoska](prenoska.md)
