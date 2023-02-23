@@ -29,4 +29,5 @@ David a dva Kubové se vrhli na zesilovač. Pokračovali v pájení dílů. Do p
 Tým pro přesnoku ztatím není.
 
 ## 22. 2. 2023
-Dokončili jsme gramofon! V OpenSCADU jsme vymodelovali držák na přenosku.
+V OpenSCADU jsme vymodelovali držák na přenosku.
+**Dokončili jsme gramofon!**
