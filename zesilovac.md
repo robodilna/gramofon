@@ -19,3 +19,4 @@ zesilovač zesílí signál z přenosky
 
 ## Design:
 prostě elektrika...
+![Detail předzesilovače](images/predzesilovac.jpg)
