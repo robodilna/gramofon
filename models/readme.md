@@ -1,4 +1,4 @@
-[<-zpět](README.md)
+[<-zpět](https://github.com/robodilna/gramofon#readme)
 # Popis 3D dílů
 
 všechny 3D díly jsou designované v openscadu a v této složce jsou dostupné zdrojové kódy (lze tak snadno upravit jejich velikost).
