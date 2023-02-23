@@ -3,7 +3,7 @@ Vytváříme gramofon pro výzvu: [Přehraj desku](https://www.elixirdoskol.cz/l
 
 ## Celkový popis
 
-U tohoto gramofonu se nebude točit deska, ale rameno s přenoskou. Toto rameno bude mít motor umístěný pod deskou, výstup motoru projde středem desky (viz obrázky které musím dodělat).
+U tohoto gramofonu se nebude točit deska, ale rameno s přenoskou. Toto rameno bude mít motor umístěný pod deskou, výstup motoru projde středem desky .
 
 ![Detail předzesilovače](images/predzesilovac.jpg)
 
