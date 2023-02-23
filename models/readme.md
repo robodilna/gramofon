@@ -11,4 +11,4 @@ Každý díl je třeba vytisknout jednou, kromě dílu rameno.scad - ten je pot�
 
 Všechny díly kromě spodní krabičky:
 
-![](gramofon-models-1.png)
+![Všechny díly kromě spodní krabičky](images/gramofon-models-1.png)
