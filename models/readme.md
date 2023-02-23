@@ -1,4 +1,4 @@
-[<-zpět](https://github.com/robodilna/gramofon#readme)
+[<-zpět](https://github.com/robodilna/gramofon)
 # Popis 3D dílů
 
 Všechny 3D díly jsou designované v OpenSCADu. V dalších složkách jsou modely ve formátu .STL a náhledy modelů.
