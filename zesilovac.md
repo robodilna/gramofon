@@ -14,7 +14,7 @@
 
 ## Jak to funguje:
 
-Zesilovač zesílí signál z přenosky
+Zesilovač zesílí signál z přenosky.
 
 
 ## Design:
