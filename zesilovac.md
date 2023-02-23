@@ -1,4 +1,4 @@
-### Team [zesilovač](zesilovac.md)
+# Team [zesilovač](zesilovac.md)
 
 ## Členové:
  - [David](https://github.com/davsla12)
@@ -14,9 +14,10 @@
 
 ## Jak to funguje:
 
-zesilovač zesílí signál z přenosky
+Zesilovač zesílí signál z přenosky
 
 
 ## Design:
 prostě elektrika...
-![Detail předzesilovače](images/predzesilovac.jpg)
+
+![Detail předzesilovače](obrazky-gramofonu/predzesilovac.jpg)
