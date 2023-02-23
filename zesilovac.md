@@ -1,3 +1,5 @@
+[<-zpět](https://github.com/robodilna/gramofon)
+
 # Team [zesilovač](zesilovac.md)
 
 ## Členové:
