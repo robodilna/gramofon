@@ -9,7 +9,7 @@ U tohoto gramofonu se nebude točit deska, ale rameno s přenoskou. Toto rameno 
 3D modely [zde](models).
 
 
-![Detail předzesilovače](images/predzesilovac.jpg)
+![Detail předzesilovače](obrazky-gramofonu/dily-gramofonu.jpg)
 
 V krabičce je:
  - motor 
@@ -17,7 +17,7 @@ V krabičce je:
  - potenciometr
  - zesilovač
 
-![Všechny díly gramofonu](images/gramofon2.jpg)
+![Všechny díly gramofonu](obrazky-gramofonu/predzesilovac.jpg)
 
 ## Naše teamy:
 (kdo co dělal)
