@@ -1,3 +1,5 @@
+[<-zpět](https://github.com/robodilna/gramofon)
+
 # Zápisky z tvorby gramofonu
 
 Vedoucí projektu: Petr, Pavel, Tomáš
