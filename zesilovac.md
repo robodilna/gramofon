@@ -1,4 +1,4 @@
-[<-zpět](https://github.com/robodilna/gramofon#na%C5%A1e-teamy)
+[<-zpět](https://github.com/robodilna/gramofon)
 
 # Team [zesilovač](zesilovac.md)
 
