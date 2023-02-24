@@ -1,4 +1,4 @@
-<sub>[<-zpět](https://github.com/robodilna/gramofon#--motor-)</sub>
+<sub>[<-zpět](https://github.com/robodilna/gramofon)</sub>
 # Team motor
 
 ## Členové:
