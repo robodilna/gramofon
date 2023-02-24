@@ -20,7 +20,7 @@ V krabičce je:
 ![Všechny díly gramofonu](obrazky-gramofonu/predzesilovac.jpg)
 
 ## Naše teamy:
-<sub>(kdo co dělal)</sub
+<sub>(kdo co dělal)</sub>
 
 ### -> [motor](motor.md) :
  - [Maty](https://github.com/matyasvanke)
