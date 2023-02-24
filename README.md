@@ -6,7 +6,7 @@ Všechny fotky a videa naleznete [zde](https://owncloud.cesnet.cz/index.php/s/BC
 ## Celkový popis
 
 U tohoto gramofonu se nebude točit deska, ale rameno s přenoskou. Toto rameno bude mít motor umístěný pod deskou, výstup motoru projde středem desky .
-3D modely [zde](models).
+3D modely [zde](https://github.com/robodilna/gramofon/tree/main/models#popis-3d-d%C3%ADl%C5%AF).
 
 
 ![Detail předzesilovače](obrazky-gramofonu/dily-gramofonu.jpg)
