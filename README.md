@@ -20,7 +20,7 @@ V krabičce je:
 ![Všechny díly gramofonu](obrazky-gramofonu/predzesilovac.jpg)
 
 ## Naše teamy:
-(kdo co dělal)
+<sub>(kdo co dělal)</sub
 
 ### -> [motor](motor.md) :
  - [Maty](https://github.com/matyasvanke)
@@ -36,4 +36,4 @@ V krabičce je:
  - Tobiáš
 
 
-desing [README.md](README.md) by: [davsla12](https://github.com/davsla12)
+<sub>desing [README.md](README.md) by: [davsla12](https://github.com/davsla12)</sub>
