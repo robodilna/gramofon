@@ -14,7 +14,7 @@ U tohoto gramofonu se nebude točit deska, ale rameno s přenoskou. Toto rameno 
 V krabičce je:
  - motor 
  - baterie
- - potenciometr
+ - regulátor DC motoru
  - zesilovač
 
 ![Všechny díly gramofonu](obrazky-gramofonu/predzesilovac.jpg)
@@ -25,15 +25,17 @@ V krabičce je:
 ### -> [motor](motor.md) :
  - [Maty](https://github.com/matyasvanke)
  - [Vítek](https://github.com/vextr2009)
+ - Dan
 
 ### -> [zesilovač](zesilovac.md) :
  - [David](https://github.com/davsla12)
- - Kuba 
- - Kuba
+ - Kuba N. 
+ - Kuba B.
+ - Ondra
+ - Honza
 
 ### -> [přenoska](prenoska.md) :
  - [Fabián](https://github.com/BabaFabaBaba)
- - Tobiáš
 
 
 <sub>desing [README.md](README.md) by: [davsla12](https://github.com/davsla12)</sub>
