@@ -4,6 +4,7 @@
 ## Členové:
  - [Maty](https://github.com/matyasvanke)
  - [Vítek](https://github.com/vextr2009)
+ - Dan
 
 ## Součástky: 
 1. https://www.laskakit.cz/ga12-n20-6v-motor-s-prevodovkou/
@@ -11,7 +12,7 @@
 3. https://www.laskakit.cz/pwm-regulator-otacek-motoru-5a/
 
 ## Jak to funguje:
-Z baterie odchází elektronický proud, který potom prochází potenciometrem a jde do motoru .
+Z baterie odchází elektronický proud, který potom prochází regulátorem otáček a jde do motoru.
 
 ## Design:
 V zelené krabičce je ukryt motor, baterie a potenciometr.
