@@ -4,8 +4,10 @@
 
 ## Členové:
  - [David](https://github.com/davsla12)
- - Kuba 
- - Kuba
+ - Kuba N.
+ - Kuba B.
+ - Ondra
+ - Honza
 
 ## Součástky: 
 1. https://www.laskakit.cz/comf-bh-421a-drzak-baterie-2xaaa-dratove-vyvody/
