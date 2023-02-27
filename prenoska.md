@@ -4,7 +4,6 @@
 
 ## Členové:
  - [Fabián](https://github.com/BabaFabaBaba)
- - Tobiáš
 
 ## Součástky: 
 1. https://aukro.cz/gramofonova-prenoska-vlozka-s-jehlou-radiox-cc20-7017185976
