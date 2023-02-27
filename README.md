@@ -5,21 +5,23 @@ Soutěžní fotky a videa naleznete [zde](https://owncloud.cesnet.cz/index.php/s
 
 ## Celkový popis
 
-U tohoto gramofonu se nebude točit deska, ale rameno s přenoskou. Toto rameno bude mít motor umístěný pod deskou, výstup motoru projde středem desky .
-3D modely [zde](models) ve formátu .stl i .scad.
+U tohoto gramofonu se nebude točit deska, ale rameno s přenoskou. Toto rameno bude mít motor umístěný pod deskou, výstup motoru projde středem desky.
+- 3D modely [zde](models) ve formátu .stl i .scad.
 
+Protože je nás 9, rozdělily jsme se do 3 [týmů](#naše-teamy) - každý se věnoval části gramofonu. Dokumentace k jednotlivým dílům je na stránkách jednotlivých týmů: 
+ - [motor](motor.md)
+ - [zesilovač](zesilovac.md)
+ - [přenoska](prenoska.md)
+ 
+ Naše úvodní Brainstormování je na samostatné [stránce](Brainstorming.md).
+
+Naši mentoři sepisovali [průběh stavby](zapisky.md).
 
 ![Detail předzesilovače](obrazky-gramofonu/dily-gramofonu.jpg)
 
-V krabičce je:
- - motor 
- - baterie
- - regulátor DC motoru
- - zesilovač
-
 ![Všechny díly gramofonu](obrazky-gramofonu/predzesilovac.jpg)
 
-## Naše teamy:
+## Naše teamy
 <sub>(kdo co dělal)</sub>
 
 ### -> [motor](motor.md) :
