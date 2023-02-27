@@ -16,7 +16,7 @@
 
 ## Jak to funguje:
 
-Zesilovač zesílí signál z přenosky.
+Předzesilovač zesílí signál z přenosky a pošle ho do bluetooth adaptéru. Vše napájí dvě AAA baterky, je třeba boostnout napětí na 5V pr BT trensmitter a 12V pro předzesilovač.
 
 
 ## Design:
