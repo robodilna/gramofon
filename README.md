@@ -1,4 +1,7 @@
 # Gramofon
+kdo dělá výzvu?
+My z [robodílny](https://github.com/robodilna/info) (odkaz zatím NEDOSTUPNÝ).
+
 Vytváříme gramofon pro výzvu: [Přehraj desku](https://www.elixirdoskol.cz/l/prehraj-desku/)
 
 Soutěžní fotky a videa naleznete [zde](https://owncloud.cesnet.cz/index.php/s/eIMceqzjqqCfIv8). Všechny pak [tady](https://owncloud.cesnet.cz/index.php/s/mdDDFQjWMxmmJgJ)
