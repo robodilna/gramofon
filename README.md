@@ -10,7 +10,7 @@ Soutěžní fotky a videa naleznete [zde](https://owncloud.cesnet.cz/index.php/s
 U tohoto gramofonu se nebude točit deska, ale rameno s přenoskou. Toto rameno bude mít motor umístěný pod deskou, výstup motoru projde středem desky.
 - 3D modely [zde](models) ve formátu .stl i .scad.
 
-Protože je nás 9, rozdělily jsme se do 3 [týmů](#naše-teamy) - každý se věnoval části gramofonu. Dokumentace k jednotlivým dílům je na stránkách jednotlivých týmů: 
+Protože je nás 9, rozdělili jsme se do 3 [týmů](#naše-teamy) - každý se věnoval části gramofonu. Dokumentace k jednotlivým dílům je na stránkách jednotlivých týmů: 
  - [motor](motor.md)
  - [zesilovač](zesilovac.md)
  - [přenoska](prenoska.md)
