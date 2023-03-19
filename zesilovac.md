@@ -1,6 +1,6 @@
 [<-zpět](https://github.com/robodilna/gramofon)
 
-# Team [zesilovač](zesilovac.md)
+# Team zesilovač
 
 ## Členové:
  - [David](https://github.com/davsla12)
