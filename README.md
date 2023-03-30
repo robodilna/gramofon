@@ -1,5 +1,5 @@
 # Gramofon
-Info o nás: [https://github.com/robodilna/info/](https://github.com/robodilna/info/).
+
 
 Vytváříme gramofon pro výzvu: [Přehraj desku](https://www.elixirdoskol.cz/l/prehraj-desku/)
 
