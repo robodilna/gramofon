@@ -3,7 +3,7 @@ t = 1.5;
 //presah uchyceni
 p = 3;
 
-delka = 80;
+delka = 70;
 sirka = 10;
 
 //čep
