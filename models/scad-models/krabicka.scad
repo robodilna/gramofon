@@ -54,8 +54,22 @@ difference(){
     
 }    
 
-translate([oval_x*5 - useknuti-2,-oval_y*5+20,0]){
-    cube([stena,oval_y*10-oval_x-20,vyska]);
+//rovna stena
+difference() {
+    translate([oval_x*5 - useknuti-2,-oval_y*5+20,0]){
+        cube([stena,oval_y*10-oval_x-20,vyska]);
+    }
+    //diry na regulaci
+    translate([oval_x*3,10,vyska/2])
+        rotate([0,90,0])
+        cylinder(oval_x, d=4); 
+    
+    translate([oval_x*3,-15,vyska/2])
+        rotate([0,90,0])
+        cylinder(oval_x, d=20); 
+    
+    
+
 }
 
 translate([-20,-sirka/2,0]){
@@ -66,7 +80,5 @@ translate([-20,-sirka/2,0]){
     }
 }
 
-translate([oval_x*3,10,vyska/2])
-        rotate([0,90,0])
-        cylinder(oval_x, d=4); 
+
 
