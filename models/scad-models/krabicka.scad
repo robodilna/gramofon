@@ -14,6 +14,13 @@ delka = 57;
 sirka = 32;
 vystupek = 8;
 
+//otvory vypinace a regulatoru
+dira_vypinac = 20;
+dira_regulator = 6.8;
+
+//kvůli technologii FDM zvetsime diry
+tolerance = .5;
+
 difference(){
     difference(){
         difference(){
@@ -62,11 +69,11 @@ difference() {
     //diry na regulaci
     translate([oval_x*3,10,vyska/2])
         rotate([0,90,0])
-        cylinder(oval_x, d=4); 
+        cylinder(oval_x, d=dira_regulator + tolerance); 
     
     translate([oval_x*3,-15,vyska/2])
         rotate([0,90,0])
-        cylinder(oval_x, d=20); 
+        cylinder(oval_x, d=dira_vypinac + tolerance); 
     
     
 
