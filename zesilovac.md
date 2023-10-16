@@ -22,6 +22,4 @@ Předzesilovač zesílí signál z přenosky a pošle ho do bluetooth adaptéru.
 
 
 ## Design:
-prostě elektrika...
-
 ![Detail předzesilovače](obrazky-gramofonu/predzesilovac.jpg)
